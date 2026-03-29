@@ -1,4 +1,4 @@
 return {
-  version = 1.0,
-  features = "New system"
+  version = 1.2,
+  features = `Deneme eksik \n Mesela \n XDEV`
 }
